@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Prueba de repositorio online 
+prueba de como crear un repositorio y clonarlo desde github a mi computadora local 
